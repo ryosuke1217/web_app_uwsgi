@@ -1,5 +1,4 @@
 
-from jsonschema import validate, ValidationError
 import cerberus
 import json
 
