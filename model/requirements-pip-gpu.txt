@@ -6,7 +6,7 @@ certifi==2017.4.17
 cffi==1.10.0
 chardet==3.0.4
 gensim==2.2.0
-html5lib==0.9999999
+html5lib==0.999999999
 idna==2.5
 Markdown==2.6.8
 natto-py==0.8.0
