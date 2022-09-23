@@ -12,7 +12,7 @@ Markdown==2.6.8
 natto-py==0.8.0
 mojimoji==0.0.5
 numpy==1.13.1
-protobuf==3.3.0
+protobuf==3.18.3
 pycparser==2.18
 requests==2.18.1
 scikit-learn==0.18.2
